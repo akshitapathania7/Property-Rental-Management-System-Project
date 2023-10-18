@@ -1,1 +1,3 @@
-# Property-Rental-Management-System-Project
+# PROJECT_PRMS
+Username : ADMIN 
+Password : 20@Vaishnavi
