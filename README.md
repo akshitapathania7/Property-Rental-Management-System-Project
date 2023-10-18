@@ -2,7 +2,7 @@
 Northeastern University
 DAMG6210 - Data Management and Database Design
 
-Name - NUID
+Group Members:
 Akshita Pathania - 002728833
 Sri Vaishnavi Aekkati - 002760439
 Amrutha Sai Edara - 002776773
